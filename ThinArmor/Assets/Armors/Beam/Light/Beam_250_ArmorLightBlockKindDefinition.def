@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "7ce8814c-2281-498d-b98a-2443b9d21330",
+    "Name": "BeamLight",
+    "Description": "Light Straight 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "a473901d-412a-4937-ad01-b84ef3b2d045",
+        "Value": "37b78e9a-e2ca-424a-b554-8674eced1830"
+      }
+    ]
+  }
+}
