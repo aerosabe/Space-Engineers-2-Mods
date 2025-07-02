@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "78d1bf41-fef3-4be5-bae9-efd91daddd1d",
+    "Name": "I-Beam W10",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "9a2a3355-e929-4458-9142-21912ad054ea",
+        "Value": "83bc20f4-8282-45d6-81cc-e21c31cd2cdc"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

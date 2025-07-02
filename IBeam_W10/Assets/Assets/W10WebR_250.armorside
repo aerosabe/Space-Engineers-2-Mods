@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.ArmorBlockSide.ArmorBlockSideAssetModel",
+  "$Value": {
+    "ModelAsset": "{G}2ef884e2-64fc-4861-8bbd-7cee17c585c7",
+    "Translation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": 1,
+    "MaterialVariant": "",
+    "LockedUVs": "None"
+  }
+}

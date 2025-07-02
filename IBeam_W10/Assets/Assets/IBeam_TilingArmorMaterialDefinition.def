@@ -1,0 +1,35 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Render.Materials.Templates.TilingArmorMaterialDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "5ab1c9f4-8ae9-4c3f-84a2-b45a9f28f270",
+    "DefaultState": "7c8eaae1-f967-48c9-becf-5401eb950bf2",
+    "PinTextures": false,
+    "MaterialInstances": [
+      {
+        "Key": "fa64ad67-6831-42d9-984f-8dc4db6c393f",
+        "Value": "95eb562a-9c2b-43e3-ba8d-1f0e22f225d2"
+      }
+    ],
+    "Tiles": [
+      {
+        "Key": "ca87262e-ee8e-4da5-bad2-a6aa77cc726a",
+        "Value": {
+          "MaterialIndex": 0,
+          "Transform": "NoTransform"
+        }
+      }
+    ],
+    "TilesCount": {
+      "X": 1,
+      "Y": 1
+    },
+    "TileSize": {
+      "X": 10,
+      "Y": 5
+    }
+  }
+}
