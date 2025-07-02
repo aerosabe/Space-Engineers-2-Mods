@@ -1,0 +1,33 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "65495141-9513-4984-a228-ad71cef1e08c",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "XSoom41tncivWK6KqFR9tw=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 0,
+          "Identifier": ""
+        },
+        "ContentFiles": null,
+        "Problems": [],
+        "DependenciesHashes": [],
+        "AssetHash": "",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      }
+    ]
+  }
+}
