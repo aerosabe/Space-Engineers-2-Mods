@@ -1,0 +1,39 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "cf9ca1ee-1971-4fec-bd57-545b54b79757",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "YImNf+Wn5b/o3JYXojCN6Q=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 1,
+          "Identifier": "P_PARTIAL_DEF"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "qcJ0cK/m07vEI9qFeM6FTA==",
+            "FileName": "BeamSlope2_100_ArmorHeavyCubeBlockDefinition.def"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [],
+        "AssetHash": "YImNf+Wn5b/o3JYXojCN6Q==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

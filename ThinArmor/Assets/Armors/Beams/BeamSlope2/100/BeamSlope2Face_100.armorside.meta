@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "5b592fa0-1852-4558-b463-7d3e4b2ab58b",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "XuXbbKp++Cn7Jiprdhj8nA=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 10,
+          "Identifier": "P_ARMORSIDE"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "Jj9xWojT9Eg5vqvroh8lsA==",
+            "FileName": "BeamSlope2Face_100.armside"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "e8d72af3-6f5c-43e0-974b-61e4615a809f",
+            "Hash": "oVW1ZQNOGbX4wI4I60HtlA=="
+          }
+        ],
+        "AssetHash": "XuXbbKp++Cn7Jiprdhj8nA==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

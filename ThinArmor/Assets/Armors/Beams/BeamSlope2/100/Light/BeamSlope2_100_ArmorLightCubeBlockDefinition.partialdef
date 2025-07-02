@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "d4662208-9d5c-49ea-9b71-af80e66e5808",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "25e28523-1f50-414d-b045-76c0eef02129",
+      "UIData": {
+        "Name": "Light Armor Short 2x1 Slope 50cm Beam",
+        "Icon": "{G}b287be02-059b-4f20-8d8b-4ff644043273"
+      },
+      "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+      "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+      "BlockKind": "67b4da9a-2f33-47f6-9b83-dc57e8d136aa"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

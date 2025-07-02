@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "8e01c242-7231-4be9-9932-22adbcd16c21",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "cf9ca1ee-1971-4fec-bd57-545b54b79757",
+      "UIData": {
+        "Name": "Heavy Armor Short 2x1 Slope 50cm Beam",
+        "Icon": "{G}c3ff491e-88cc-47f7-bd9d-11d7b8cd73fd"
+      },
+      "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+      "BlockKind": "34232a91-4f11-4eb0-abb9-5b9f043e8a9b"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

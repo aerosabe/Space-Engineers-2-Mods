@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "e141b116-5a61-473a-8d2a-f5e8efbb6e1a",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "CDtZYPHmV7X2esvaf1jQQQ=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 10,
+          "Identifier": "P_ARMORSIDE"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "QdY6WMLXOd+FVzG3lME+zg==",
+            "FileName": "BeamEnd_100.armside"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "2f24a3bb-94ba-44c8-8c16-91c1eee6b40b",
+            "Hash": "aIlI80wUb0m707dxloTRLA=="
+          }
+        ],
+        "AssetHash": "CDtZYPHmV7X2esvaf1jQQQ==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}
