@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.Core.Project.VRageProjectData",
+  "$Value": {
+    "Name": "IBeam",
+    "Version": null,
+    "Type": "Mod",
+    "ProjectID": {
+      "Guid": "26f17b0f-c4e8-4c25-9d98-8c1707d66ed5",
+      "ModId": {
+        "Id": "00000000-0000-0000-a4f3-80d100000000",
+        "ServiceName": "Steam"
+      },
+      "ServiceId": "Steam"
+    },
+    "ModSetup": null,
+    "ProjectDependencies": [
+      {
+        "Guid": "56dacb76-e25e-468a-9432-21964a9a0569",
+        "ModId": null,
+        "ServiceId": ""
+      }
+    ],
+    "ProjectDirectories": [],
+    "UsedBuildStream": "",
+    "DefinitionSetNames": [
+      "World"
+    ],
+    "GameExecutable": "SpaceEngineers2.exe",
+    "GameExecutableSearchPaths": [],
+    "ReferencedAssemblies": [],
+    "ReferencedAssembliesSearchPaths": [],
+    "EditorExtensionAssemblies": [],
+    "EditorExtensionAssembliesSearchPaths": [],
+    "SkipContentMounting": false,
+    "EnableIgnoreProcessingErrorFlags": false
+  }
+}
