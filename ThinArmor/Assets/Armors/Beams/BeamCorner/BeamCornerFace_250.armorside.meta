@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "dd459b7b-878f-4704-845d-3d912b1f90a9",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "0DaKiRftGwwKkbmPuRH3og=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 10,
+          "Identifier": "P_ARMORSIDE"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "D/5cp+5j8x0ks6alg/Deaw==",
+            "FileName": "BeamCornerFace_250.armside"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "5211dfff-35e1-472d-98f9-18a15bd6d22e",
+            "Hash": "FbjkwbtxzRCKd46PnKsD8Q=="
+          }
+        ],
+        "AssetHash": "0DaKiRftGwwKkbmPuRH3og==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

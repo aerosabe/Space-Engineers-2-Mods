@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "a3d24367-9ebe-4b15-ba69-9c710a900d4b",
+    "Name": "BeamCornerHeavy",
+    "Description": "Heavy Wide Slope 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "8b2be475-69f2-41d8-b3e3-e6b201ed21ba",
+        "Value": "4aba1dd4-4ebb-46ce-89c7-35868cf3a1b4"
+      },
+      {
+        "Key": "a214bcf2-0854-45ab-8b9d-96125ef6f86d",
+        "Value": "b82255a0-8e52-418c-9918-e9c10171fdce"
+      }
+    ]
+  }
+}

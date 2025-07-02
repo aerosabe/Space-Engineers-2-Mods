@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "d4ed834d-215b-4308-8063-f30664416c56",
+    "Name": "Light 50cm Beam Corner",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "83bf3109-d068-49fd-8c3b-7907e3b937fa",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}
