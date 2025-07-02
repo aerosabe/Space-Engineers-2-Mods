@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "929e017b-377e-4607-9600-27d9166eefd9",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "qkIjsAOa+OvRTnnDi7KALQ=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 10,
+          "Identifier": "P_ARMORSIDE"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "BdwAMuouiD4roER+AyfG/g==",
+            "FileName": "BeamSlopeSide_250.armside"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "4b776055-5765-494b-a3e4-3bb408c0921a",
+            "Hash": "t6zLE2rlV30xUpo3Gq+1Yw=="
+          }
+        ],
+        "AssetHash": "qkIjsAOa+OvRTnnDi7KALQ==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

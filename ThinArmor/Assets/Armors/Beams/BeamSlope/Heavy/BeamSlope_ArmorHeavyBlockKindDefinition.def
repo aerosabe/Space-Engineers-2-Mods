@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "dea6003e-0bcc-497f-99eb-a2a30cde7afa",
+    "Name": "BeamSlopeHeavy",
+    "Description": "Heavy Sloped 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "95ef17d5-792e-4768-a87f-1acea4afb878",
+        "Value": "cadc3910-20e6-4cd9-a7c5-21b3bd04a20c"
+      },
+      {
+        "Key": "48faf22f-f25b-4625-a738-991202abd0c1",
+        "Value": "496eea4e-3cba-4cf2-83ce-590401839920"
+      }
+    ]
+  }
+}
