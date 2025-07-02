@@ -17,10 +17,13 @@ For faster building, reduced PCU and Similar functionality to large counterparts
 
 ##### Group - Thin Armor (250x250x250cm):
 - ThinFlat
+- ThinSlantSide
+- ThinSlant2Side
+
+##### Group - Thin Armor (250x250x250cm):
 - ThinSlope
 - ThinTriangleSlant
 - ThinTriangleSlantInv
-- ThinTriangleSlantInvCorner
 
 ##### Group – Long Sloped Armor:
 - ThinSlope2            (250x250x125)
@@ -33,6 +36,5 @@ For faster building, reduced PCU and Similar functionality to large counterparts
 - ThinWideTriangleSlant2
 - ShortWideTriangleSlant2
 - ThinWideTriangleSlant2Inv
-- ThinWideTriangleSlant2InvTop
 - WideTriangleSlant5
 - WideTriangleSlant5Inv
