@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "5fdb6274-7177-4ec3-8c51-51c505dbaa22",
+    "Name": "ThinWideTriangleSlant2Light",
+    "Description": "Light Wide 2x1 Slanted Triangle 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "5009e165-5b03-4095-a189-cae93e967c0e",
+        "Value": "3cc4109f-e8bc-4573-a2e5-fcdb210c5f84"
+      },
+      {
+        "Key": "755e8ae0-34a2-4ff6-8faa-2f7197b28df5",
+        "Value": "8ae6fcdf-79cd-4aca-a4f6-7d00099edcf4"
+      }
+    ]
+  }
+}

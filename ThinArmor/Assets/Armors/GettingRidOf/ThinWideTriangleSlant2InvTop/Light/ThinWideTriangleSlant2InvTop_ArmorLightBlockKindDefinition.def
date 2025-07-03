@@ -1,0 +1,15 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e616ed48-24eb-4592-86d5-223b31eddea6",
+    "Name": "ThinWideTriangleSlant2InvTopLight",
+    "Description": "Light Wide 2x1 Slanted Inverted Triangle 50cm Panel with Top",
+    "OrderingPriority": 0,
+    "BlockGroups": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "0517836d-7475-4acd-81d3-7d85c438a248",
+    "UIData": {
+      "Name": "Light Armor 2x1 50cm Slope",
+      "Icon": "{G}1989f7e2-8c84-4444-96f9-322d0c8fd9c5"
+    },
+    "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "285e9bbd-260e-4cfc-9f81-ee7b98bd3f29"
+  }
+}

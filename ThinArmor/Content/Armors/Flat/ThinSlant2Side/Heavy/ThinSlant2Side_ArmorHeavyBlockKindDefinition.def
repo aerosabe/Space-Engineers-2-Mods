@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "65203019-e6f6-419e-8d12-5d8fe6e92c6b",
+    "Name": "ThinSlant2SideHeavy",
+    "Description": "Heavy Thin 2x1 Slanted Slope 50cm Side",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "5f57a119-76d9-4982-9dcb-4d1f57323a91",
+        "Value": "2f11f27d-7732-4060-b488-6117c847a296"
+      },
+      {
+        "Key": "0b58d37d-4433-4717-bab4-e92b68f7e5c8",
+        "Value": "1bebc050-331b-486a-9b7c-be9062e9780d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "4aba1dd4-4ebb-46ce-89c7-35868cf3a1b4",
+    "Name": "Heavy Straight 50cm Beam",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "e14bbeab-2c77-4553-b1b1-2f700fc01f50",
+        "Value": "dfeaceb9-9946-44c8-8212-50692a7d80cb"
+      },
+      {
+        "Key": "2036bc36-1c62-4376-b422-b09b9e0a0201",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "4492885a-07d0-4ef2-aef3-1111c48b3ee0",
+        "Value": "092d2897-ecde-42d1-910c-00995ad693e4"
+      },
+      {
+        "Key": "14f726bb-622a-4158-8084-2817ca15bd86",
+        "Value": "a3d24367-9ebe-4b15-ba69-9c710a900d4b"
+      },
+      {
+        "Key": "c2aebe2d-85e4-46ad-bd8d-0f4617b5c7fc",
+        "Value": "24a407e7-0fb0-4844-9f15-6d26fb1fe063"
+      },
+      {
+        "Key": "5e00d21a-f80b-4588-8650-66d1a42d0c2f",
+        "Value": "737e171c-a316-4b09-add7-2e698614eaaa"
+      }
+    ]
+  }
+}

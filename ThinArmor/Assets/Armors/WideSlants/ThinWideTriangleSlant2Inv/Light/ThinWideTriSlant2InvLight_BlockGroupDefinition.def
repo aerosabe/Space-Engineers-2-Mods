@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "a342a0a2-3290-4a57-ab11-401f258564ec",
+    "Name": " Wide 2x1 Slanted Inverted Triangle 50cm Panel",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "4dd82bad-e850-426c-bc9b-6d750f4ee417",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

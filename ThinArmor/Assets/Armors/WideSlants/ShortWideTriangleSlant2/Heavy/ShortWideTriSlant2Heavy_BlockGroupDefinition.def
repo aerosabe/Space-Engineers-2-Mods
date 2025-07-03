@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b6fb215b-46e6-4010-834e-b5392deb4df0",
+    "Name": "Heavy Wide 2x1 Slanted Triangle",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "6ec1a3a9-91b6-40aa-bdf9-799512cc92ff",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

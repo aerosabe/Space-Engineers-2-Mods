@@ -1,0 +1,72 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "e60f2ab6-bfc4-4c92-ad2a-259a4763c167",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "siOV7lMMCdPbY++vV0D9zg=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 17,
+          "Identifier": "P_COMPARM"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "makQOs2JpwTUW90ECWtHoQ==",
+            "FileName": "ShortWideTriangleSlant2_100.armblock"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "463d1cec-423b-42b8-9588-816691038bbb",
+            "Hash": "V/yv2R89CQV+mfRO6bQOBQ=="
+          },
+          {
+            "Guid": "4a487f1e-77c2-4744-9a7d-9fced51632cc",
+            "Hash": "ta053VXr0fbm6EemTHtRfQ=="
+          },
+          {
+            "Guid": "5ff313e3-b439-47ac-87db-b7bbb02ae3e9",
+            "Hash": "ISgrygVfmSBJ8kyJPNebyw=="
+          },
+          {
+            "Guid": "a4202d1b-5a51-41d5-b3c2-ef0a26035543",
+            "Hash": "P0FYDI3o3ACTyBOOyQZ3pg=="
+          },
+          {
+            "Guid": "aa0bb9f4-bf74-4676-831d-23dbba44e8fd",
+            "Hash": "G5vWhAfDUOyVDJzEAgCV4Q=="
+          },
+          {
+            "Guid": "ad63792c-e68f-42cd-aa97-16aed9f077f1",
+            "Hash": "T0qj0dxjKqIZl97I24kfqA=="
+          },
+          {
+            "Guid": "c408a46c-b88d-4d56-96b8-12440139da0f",
+            "Hash": "WJAN9KuBQH7lobDseQ8q3A=="
+          },
+          {
+            "Guid": "e4ef0ced-070e-4bd6-8a4d-60dff0cea782",
+            "Hash": "K2s2zPzGSTaTAbPLTYDobg=="
+          }
+        ],
+        "AssetHash": "siOV7lMMCdPbY++vV0D9zg==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

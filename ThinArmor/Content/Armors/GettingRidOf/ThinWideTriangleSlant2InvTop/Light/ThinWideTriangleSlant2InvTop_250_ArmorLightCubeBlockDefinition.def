@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "ba3d0546-dea6-4a0d-b6cd-5bcdd3b6a90a",
+    "UIData": {
+      "Name": "Light Armor Wide 2x1 Slanted Inverted Triangle 50cm Panel with Top",
+      "Icon": "{G}64fd9478-717d-4839-8015-94c157c55673"
+    },
+    "PlacerDefinition": "82d2bb37-585d-4fd1-b3dc-266e23708d6e",
+    "BlockKind": "e616ed48-24eb-4592-86d5-223b31eddea6"
+  }
+}

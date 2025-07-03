@@ -1,0 +1,45 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "3cc4109f-e8bc-4573-a2e5-fcdb210c5f84",
+    "Name": "Light Wide Slanted 50cm Panels",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "ce6e6a29-cbf8-488d-be6f-db51af76ebe1",
+        "Value": "130e4c3d-6aee-44db-ab59-890ab8cacd4d"
+      },
+      {
+        "Key": "2dc0806f-0303-4094-a0e8-f9ee1a165a16",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "f05dd63c-ff2c-4938-834d-2fe17c06457d",
+        "Value": "5fdb6274-7177-4ec3-8c51-51c505dbaa22"
+      },
+      {
+        "Key": "d6db4c72-eb7c-40d9-a600-2b0b54d332ea",
+        "Value": "002a372c-9ee2-4cb8-8a17-d8ba2bbc6468"
+      },
+      {
+        "Key": "71d96c73-993b-4a19-9f54-ee4b2c2d6f91",
+        "Value": "e710a76e-e44c-4282-9c72-52144e44fbc6"
+      },
+      {
+        "Key": "cf3c34c7-aa64-4733-bbac-e98e8d90d047",
+        "Value": "04c3525e-41cf-4b05-ad7f-82782b4db4b1"
+      },
+      {
+        "Key": "f5443c4a-dad9-4d60-8226-47cbe3ba0552",
+        "Value": "d7c2936c-8b5d-479c-88ce-1a6523749528"
+      }
+    ]
+  }
+}

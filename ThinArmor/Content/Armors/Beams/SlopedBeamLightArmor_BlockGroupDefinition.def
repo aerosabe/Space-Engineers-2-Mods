@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "a074fcc8-c9bb-4890-9a71-66d9b8f3f940",
+    "Name": "Light Armor Sloped 50cm Beams",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "3f019ff6-c7eb-4a20-9bfc-bd04b7a84017",
+        "Value": "130e4c3d-6aee-44db-ab59-890ab8cacd4d"
+      },
+      {
+        "Key": "e74c855c-4960-4a3c-901c-6bebe2b3f94c",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "c8a3799f-1821-4608-884c-380e00fcea62",
+        "Value": "5881d183-e8bd-4028-97f5-d941b68412e6"
+      },
+      {
+        "Key": "d2492c51-a3b6-480b-8678-3170463226a9",
+        "Value": "67b4da9a-2f33-47f6-9b83-dc57e8d136aa"
+      },
+      {
+        "Key": "531f0c81-509f-4925-ab1a-4345ea81344b",
+        "Value": "a3051854-275c-4458-be96-5dd4aad95e08"
+      },
+      {
+        "Key": "03e6ab2e-78c9-48eb-96b9-49362f18a876",
+        "Value": "fcd80aa1-164a-4e75-b74b-0faef943537f"
+      }
+    ]
+  }
+}

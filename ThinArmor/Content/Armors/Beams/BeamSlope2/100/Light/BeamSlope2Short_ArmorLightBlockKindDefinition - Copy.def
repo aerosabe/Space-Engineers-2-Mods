@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "67b4da9a-2f33-47f6-9b83-dc57e8d136aa",
+    "Name": "BeamSlope2ShortLight",
+    "Description": "Light 2x1 Short Sloped 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "7a98bee2-f19a-4eee-bc15-1c13f650a779",
+        "Value": "a074fcc8-c9bb-4890-9a71-66d9b8f3f940"
+      },
+      {
+        "Key": "5f91f0b8-c013-4930-bff9-d93e7d495f6b",
+        "Value": "e22ad83e-ff3a-4475-93b9-f9af8e09dd8b"
+      }
+    ]
+  }
+}

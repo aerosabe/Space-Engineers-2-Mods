@@ -1,0 +1,12 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.Armors.ArmorBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "4858beb1-b00f-4fb9-a8d0-42468495422c",
+    "Model": "{G}ccd51d20-23bf-4d2d-bdba-7f8afa3bd910"
+  }
+}

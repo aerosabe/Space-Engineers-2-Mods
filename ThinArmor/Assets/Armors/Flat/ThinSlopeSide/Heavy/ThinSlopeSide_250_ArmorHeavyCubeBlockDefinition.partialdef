@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "8e01c242-7231-4be9-9932-22adbcd16c21",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "a0c2d567-b408-472d-a883-163ce04f4632",
+      "UIData": {
+        "Name": "Heavy Armor Slope 50cm Side",
+        "Icon": "{G}591b0657-caba-4ae5-8b2c-e43a68d3cb6f"
+      },
+      "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+      "BlockKind": "f1962b8d-3e92-4454-ba99-4bdc82985f3b"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

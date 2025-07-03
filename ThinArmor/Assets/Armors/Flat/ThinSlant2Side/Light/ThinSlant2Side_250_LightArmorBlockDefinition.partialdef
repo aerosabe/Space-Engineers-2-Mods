@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "5b2c589a-a9ac-4f0a-98be-d81b5e969c64",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "403b0bcb-2e6a-4b57-9276-aa174803b0bf",
+      "Model": "{G}545e1a1c-d43d-4f50-aa94-39e79746092b"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.Armors.ArmorBlockDefinition",
+    "PriorityOverride": false
+  }
+}

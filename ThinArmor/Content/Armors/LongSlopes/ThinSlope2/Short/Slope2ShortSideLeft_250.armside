@@ -1,0 +1,3476 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.Game.Armor.Data.ArmorBlockSide",
+  "$Value": {
+    "Nodes": [
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 7,
+            "Z": 6
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649157127483392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508419639128064
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 7,
+            "Z": 7
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323649157127483392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508419639128064
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                3,
+                0,
+                3,
+                1
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 6,
+            "Z": 6
+          },
+          "SizeMultiplier": 2
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275676160
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555241091072
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148091392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512817752735744
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512816880320512
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                5,
+                4,
+                0,
+                3,
+                0,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323512816880320512
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555241091072
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512817752735744
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": 0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": 0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 4,
+            "Z": 4
+          },
+          "SizeMultiplier": 4
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323512817752781824
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643215246336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512817819890688
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215866401792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215799292928
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                5,
+                4,
+                0,
+                3,
+                0,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517215799292928
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643215246336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215866401792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517215799292928
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643215246336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215866401792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": 0
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": 0
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 8,
+            "Y": 0,
+            "Z": 0
+          },
+          "SizeMultiplier": 8
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323519414923179008
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215899923456
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215933477888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323519414956733440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521613979988992
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521613946434560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                5,
+                4,
+                0,
+                3,
+                0,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323521613946434560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215899923456
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215933477888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521613979988992
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323521613946434560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215899923456
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215933477888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521613979988992
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323521613946434560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215899923456
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517215933477888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521613979988992
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": 1
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": 1
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": 1
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": 1
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 7,
+            "Z": 8
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323508418833821696
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649157127483392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                0,
+                1,
+                2,
+                3
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 7,
+            "Z": 9
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649156322177024
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 6,
+            "Z": 8
+          },
+          "SizeMultiplier": 2
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455643080982528
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275676160
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555241091072
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512816880320512
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                0,
+                1,
+                2,
+                3,
+                0,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323512816880320512
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555241091072
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0.25,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 4,
+            "Z": 8
+          },
+          "SizeMultiplier": 4
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323653555274691584
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555241137152
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953354757120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287648256
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                0,
+                1,
+                2,
+                3,
+                0,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953354757120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287648256
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455643148137472
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953354757120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287648256
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": -0.5
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": -0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.5,
+                "Z": -0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": -0.5
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": 0.25,
+                "Z": 0
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 8,
+            "Y": 0,
+            "Z": 8
+          },
+          "SizeMultiplier": 8
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323660152428311552
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323660152411534336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351468344320
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351434789888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953388278784
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                0,
+                1,
+                2,
+                3,
+                0,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323657953388278784
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351468344320
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351434789888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323657953388278784
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351468344320
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351434789888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323657953388278784
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351468344320
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323662351434789888
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": -1
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": -1
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": -0.5
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 1,
+                "Z": -1
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": -1
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": 0.75,
+                "Z": -0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 8,
+            "Z": 6
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323649157127483392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508418833821696
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                3,
+                3,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 8,
+            "Z": 7
+          },
+          "SizeMultiplier": 1
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323649159274967040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323649156322177024
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323508421786611712
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                0,
+                2
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": 0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.125,
+                "Y": 0,
+                "Z": -0.125
+              },
+              "Vertex1": {
+                "X": 0.125,
+                "Y": -0.125,
+                "Z": -0.125
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 8,
+            "Z": 6
+          },
+          "SizeMultiplier": 2
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295575040
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645228466176
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653557388574720
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819900219392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                3,
+                3,
+                2,
+                0,
+                2,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368675840
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653557388574720
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819900219392
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": -0.25,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": -0.25,
+                "Z": 0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": -0.25,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0,
+                "Y": -0.25,
+                "Z": 0.25
+              },
+              "Vertex1": {
+                "X": 0,
+                "Y": 0,
+                "Z": -0.25
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 12,
+            "Y": 8,
+            "Z": 4
+          },
+          "SizeMultiplier": 4
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295621120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819967374336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819933819904
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645362729984
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218013885440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                3,
+                3,
+                2,
+                0,
+                2,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295621120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645362729984
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218013885440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295621120
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645362729984
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218013885440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": -0.5,
+                "Z": 0
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": -0.5,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": -0.25,
+                "Z": 0
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": -0.5,
+                "Z": 0
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": -0.25,
+                "Y": -0.5,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": -0.25,
+                "Y": -0.25,
+                "Z": 0
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 8,
+            "Y": 8,
+            "Z": 0
+          },
+          "SizeMultiplier": 8
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517218047407104
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323519417104217088
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323519417087439872
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218080961536
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521616127472640
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                3,
+                3,
+                2,
+                0,
+                2,
+                1,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517218047407104
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218080961536
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521616127472640
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517218047407104
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218080961536
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521616127472640
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323517218047407104
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517218080961536
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323521616127472640
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                }
+              ],
+              "Indices": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": -1,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": -1,
+                "Z": 1
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": -0.75,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": -1,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 0.25,
+                "Y": -1,
+                "Z": 1
+              },
+              "Vertex1": {
+                "X": 0.25,
+                "Y": -0.75,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$Key": {
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "SizeMultiplier": 16
+        },
+        "$Value": {
+          "LODs": [
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323653557388590336
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973079715
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657955435101440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657952415202560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653554368691456
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973091840
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275691776
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295590656
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819833126144
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872427520
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323512819900235008
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 872416419
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517217946746112
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287617792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323653555173997824
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 973092352
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                5,
+                4,
+                0,
+                3,
+                0,
+                4,
+                4,
+                7,
+                6,
+                7,
+                4,
+                5,
+                6,
+                7,
+                8,
+                3,
+                10,
+                2,
+                2,
+                10,
+                9,
+                10,
+                3,
+                4
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295590656
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657955435101440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657952415202560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275691776
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517217946746112
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287617792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                3,
+                0,
+                4,
+                2,
+                3,
+                5
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295590656
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657955435101440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657952415202560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275691776
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517217946746112
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287617792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                3,
+                0,
+                4,
+                2,
+                3,
+                5
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323455645295590656
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939525283
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657955435101440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657952415202560
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006646272
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323455642275691776
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 939537408
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517217946746112
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287617792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                }
+              ],
+              "Indices": [
+                3,
+                2,
+                0,
+                0,
+                2,
+                1,
+                3,
+                0,
+                4,
+                2,
+                3,
+                5
+              ]
+            },
+            {
+              "Vertices": [
+                {
+                  "Position": {
+                    "PackedValue": 4323657953287617792
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006647296
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323517217946746112
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 77726883
+                  }
+                },
+                {
+                  "Position": {
+                    "PackedValue": 4323657955435101440
+                  },
+                  "Normal": {
+                    "PackedValue": 1073709055
+                  },
+                  "TexCoord": {
+                    "PackedValue": 1006634147
+                  }
+                }
+              ],
+              "Indices": [
+                2,
+                1,
+                0
+              ]
+            }
+          ],
+          "Edges": [
+            {
+              "Vertex0": {
+                "X": 1.25,
+                "Y": -0.25,
+                "Z": -0.5
+              },
+              "Vertex1": {
+                "X": 1.25,
+                "Y": -0.25,
+                "Z": 0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": -0,
+                "Z": 0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 1.25,
+                "Y": 0.25,
+                "Z": -0.5
+              },
+              "Vertex1": {
+                "X": 1.25,
+                "Y": -0.25,
+                "Z": -0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": -0
+              }
+            },
+            {
+              "Vertex0": {
+                "X": 1.25,
+                "Y": -0.25,
+                "Z": 0.5
+              },
+              "Vertex1": {
+                "X": 1.25,
+                "Y": 0.25,
+                "Z": -0.5
+              },
+              "Normal": {
+                "X": 1,
+                "Y": 0,
+                "Z": 0
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "PlanarDirection": "Right",
+    "SideMaterialVariant": null,
+    "LockedUVs": "None"
+  }
+}

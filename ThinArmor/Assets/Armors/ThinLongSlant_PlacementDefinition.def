@@ -1,0 +1,19 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.PlacementDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "0c7a872a-1dc3-473b-9b09-6a23ef8fa02c",
+    "BestSnapSize": null,
+    "AlignWithMountPoints": true,
+    "AllowSquareSnapping": true,
+    "AutoRotateFace": null,
+    "SizeGroup": null,
+    "MaxInVoxelRatio": 0.5,
+    "SnapAlignment": 0,
+    "OverrideSymmetries": "7b40cc91-7778-4dc2-b1b3-aa1e1c310934"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "8e01c242-7231-4be9-9932-22adbcd16c21",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "ef8eefa3-fe2c-4f72-a906-382f0afe34d3",
+      "UIData": {
+        "Name": "Heavy Armor Slanted Triangle 50cm Panel",
+        "Icon": "{G}24566ce1-e64d-4356-8248-a5e709776ce2"
+      },
+      "PlacerDefinition": "f66e7c10-4406-4c48-9375-7ca3029a2632",
+      "BlockKind": "bae852a5-f99e-4852-8391-d5c87023b112"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

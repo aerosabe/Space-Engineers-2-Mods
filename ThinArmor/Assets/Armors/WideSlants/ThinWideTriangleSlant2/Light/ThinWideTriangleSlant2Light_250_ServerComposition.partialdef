@@ -1,0 +1,43 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "47e1d38c-43e1-4051-8adc-a5351a9219a1",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "2246a2d7-7d64-42a3-a467-eea988ee6465",
+      "Components": {
+        "$DeltaEncoded": true,
+        "Keys": [
+          "b7bf405c-71aa-46a1-a5ec-4c690f2ab7e3",
+          "e58b8f69-45da-40d4-82b0-f1a82564a53a",
+          "99b0fd59-b175-4ed0-8251-224787aba984",
+          "627bf238-e13e-49f4-9f61-27038e422899"
+        ],
+        "Changed": [
+          {
+            "Kind": "Update",
+            "Index": 2,
+            "Value": {
+              "Definition": "eb5e46d0-12aa-4963-88a4-7e158cecec49"
+            }
+          },
+          {
+            "Kind": "Update",
+            "Index": 3,
+            "Value": {
+              "Definition": "4162d6bd-cf10-47b3-8b94-3b4ea297859d"
+            }
+          }
+        ],
+        "Removed": []
+      }
+    },
+    "DefinitionType": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinition",
+    "PriorityOverride": false
+  }
+}

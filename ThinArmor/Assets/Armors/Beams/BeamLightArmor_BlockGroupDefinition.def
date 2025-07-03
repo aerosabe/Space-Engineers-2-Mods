@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "37b78e9a-e2ca-424a-b554-8674eced1830",
+    "Name": "Light Straight 50cm Beam",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "accb2a33-c8c4-452b-b58b-241a53b206e9",
+        "Value": "130e4c3d-6aee-44db-ab59-890ab8cacd4d"
+      },
+      {
+        "Key": "85249a4c-0d64-4cfe-99b9-1a68a39d27da",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "d1ed1b77-622d-4bb3-b2e8-7bf8e26e6a67",
+        "Value": "7ce8814c-2281-498d-b98a-2443b9d21330"
+      },
+      {
+        "Key": "224fe0d6-6b67-4ae7-9c12-889277968384",
+        "Value": "59129a09-c422-4360-8ff9-27a6aa36a82b"
+      },
+      {
+        "Key": "fc069b7c-f1b8-4454-ab37-9805418e10db",
+        "Value": "f86d9c5c-77d7-42d7-bb95-d3939e6b3af2"
+      },
+      {
+        "Key": "80e0ca15-c24d-4219-9d39-f28ee86f7edd",
+        "Value": "b43429bb-24ce-4a98-8937-c6b908e7f199"
+      }
+    ]
+  }
+}

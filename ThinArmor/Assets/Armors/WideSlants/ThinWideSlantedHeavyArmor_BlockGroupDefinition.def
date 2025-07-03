@@ -1,0 +1,45 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "66e7edb0-c420-4b44-81ea-c409420ed2cb",
+    "Name": "Heavy Wide Sloped 50cm Panels",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "11e93cac-0c56-4d9e-9316-7de375b2e4f1",
+        "Value": "dfeaceb9-9946-44c8-8212-50692a7d80cb"
+      },
+      {
+        "Key": "0ceef308-6552-4325-9fc5-bfa910b4caf3",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "a81b25c5-2b11-4ee9-9adb-aa52d15cd55b",
+        "Value": "e4c4cbc9-79bf-4441-b667-3a334204ceb8"
+      },
+      {
+        "Key": "e218bcf3-b734-48c5-beb0-58b0f0e04139",
+        "Value": "fa4b8ee5-e382-4bb9-b648-7ceb6fc4d42d"
+      },
+      {
+        "Key": "682dd219-9260-441a-a9d5-32a0d461bcc5",
+        "Value": "1f3806cb-4228-41e8-a4c5-150a16308a81"
+      },
+      {
+        "Key": "410e1771-80ea-439a-9ec2-313bf0bba689",
+        "Value": "1bdba5e7-71c7-496f-b3d5-cbf2b765823c"
+      },
+      {
+        "Key": "8d7d03e3-889f-46c7-b8d6-dab0cba903a3",
+        "Value": "08c3b5dc-742e-41cf-9252-9bf09a7bbb6b"
+      }
+    ]
+  }
+}

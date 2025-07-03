@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e6eb2878-34f4-43eb-b785-e199105d9fd6",
+    "UIData": {
+      "Name": "Light Armor Wide 50cm 5x1 Slanted Triangle",
+      "Icon": "{G}90279949-0fb7-4161-bbab-8ef700dfbbbc"
+    },
+    "PlacerDefinition": "82d2bb37-585d-4fd1-b3dc-266e23708d6e",
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "04c3525e-41cf-4b05-ad7f-82782b4db4b1"
+  }
+}

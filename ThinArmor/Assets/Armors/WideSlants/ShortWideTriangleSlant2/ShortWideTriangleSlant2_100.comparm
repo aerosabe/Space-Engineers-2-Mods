@@ -1,0 +1,44 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.ArmorBlockModel.Composite.CompositeArmorBlockModel",
+  "$Value": {
+    "SkipPhysicsShapeGeneration": false,
+    "SideMeshes": [
+      {
+        "SideMesh": "{G}e4ef0ced-070e-4bd6-8a4d-60dff0cea782",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate90",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}4a487f1e-77c2-4744-9a7d-9fced51632cc",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}a4202d1b-5a51-41d5-b3c2-ef0a26035543",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}ad63792c-e68f-42cd-aa97-16aed9f077f1",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "002a372c-9ee2-4cb8-8a17-d8ba2bbc6468",
+    "Name": "ShortWideTriangleSlant2Light",
+    "Description": "Light Wide 2x1 Slanted Triangle",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "b097e2b8-a654-4e1e-b409-c51c08576eb1",
+        "Value": "3cc4109f-e8bc-4573-a2e5-fcdb210c5f84"
+      },
+      {
+        "Key": "3d26aee0-d3d2-47fe-9cff-3f13f73b545e",
+        "Value": "beed0420-d245-4bae-9d2f-46cb8dc347ff"
+      }
+    ]
+  }
+}

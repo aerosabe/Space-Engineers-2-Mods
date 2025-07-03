@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cf073026-a839-40bc-bbd5-a5c36655eb2e",
+    "UIData": {
+      "Name": "Heavy Armor 2x1 Slanted Inverted Triangle 50cm Panel",
+      "Icon": "{G}d9fafb35-7337-458c-b085-5468829fc678"
+    },
+    "PlacerDefinition": "baa76723-d828-4776-ad61-d369bebfd033",
+    "BlockKind": "0a30f747-5f47-4a50-be2e-1113b5de5317"
+  }
+}

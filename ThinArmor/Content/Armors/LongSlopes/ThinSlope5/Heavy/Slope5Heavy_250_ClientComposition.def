@@ -1,0 +1,39 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.DCS.Definitions.EntityCompositeDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "a8a7e8bd-0d98-4c37-aa50-64a5d62bcd2b",
+    "Components": {
+      "$DeltaEncoded": true,
+      "Keys": [
+        "b7bf405c-71aa-46a1-a5ec-4c690f2ab7e3",
+        "e58b8f69-45da-40d4-82b0-f1a82564a53a",
+        "99b0fd59-b175-4ed0-8251-224787aba984",
+        "cbbf7af7-e409-42b7-a85a-e17ad9a54e4b",
+        "75b3b3fb-efad-46d2-a183-696bdaf402c9",
+        "627bf238-e13e-49f4-9f61-27038e422899"
+      ],
+      "Changed": [
+        {
+          "Kind": "Update",
+          "Index": 2,
+          "Value": {
+            "Definition": "e06bd12d-e5b2-4a2d-b469-4e64c8dd9d23"
+          }
+        },
+        {
+          "Kind": "Update",
+          "Index": 5,
+          "Value": {
+            "Definition": "8be0a4a5-509b-4485-8fd1-ff6d6c92bb48"
+          }
+        }
+      ],
+      "Removed": []
+    }
+  }
+}

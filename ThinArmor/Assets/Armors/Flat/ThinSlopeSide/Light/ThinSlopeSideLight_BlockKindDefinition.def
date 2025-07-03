@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "c91cd6c0-cc77-4b64-b6fe-0a6975906af6",
+    "Name": "ThinSlopeSideLight",
+    "Description": "Light Slope 50cm Side",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "2deb0019-b0e1-41bc-ae8e-5e9e94463a1f",
+        "Value": "db73dc0f-dc0a-43fd-bf55-6fa577e8fa2c"
+      },
+      {
+        "Key": "51c372ab-c774-40bd-8e76-3b6aa0708f6e",
+        "Value": "48873faf-a9bd-4409-92bb-314fdc2f71c4"
+      }
+    ]
+  }
+}

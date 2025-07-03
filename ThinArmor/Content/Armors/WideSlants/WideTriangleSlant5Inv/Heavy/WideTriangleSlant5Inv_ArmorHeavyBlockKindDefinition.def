@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "08c3b5dc-742e-41cf-9252-9bf09a7bbb6b",
+    "Name": "WideTriangleSlant5InvHeavy",
+    "Description": "Heavy Wide 50cm 5x1 Slanted Inverted Triangle",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "3075dcef-d63a-4cab-b8a2-377036b7ff76",
+        "Value": "66e7edb0-c420-4b44-81ea-c409420ed2cb"
+      },
+      {
+        "Key": "99e44461-827e-458d-a6c0-2cd289bae838",
+        "Value": "6fe11614-2612-4d28-87f0-65ff9ba3ebc5"
+      }
+    ]
+  }
+}

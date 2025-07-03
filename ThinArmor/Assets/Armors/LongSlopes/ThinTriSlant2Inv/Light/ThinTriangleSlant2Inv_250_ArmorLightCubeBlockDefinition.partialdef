@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "d4662208-9d5c-49ea-9b71-af80e66e5808",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "b6a34df5-b2cf-4e95-8a6b-283ea857ee3d",
+      "UIData": {
+        "Name": "Light Armor 2x1 Slanted Inverted Triangle 50cm Panel",
+        "Icon": "{G}2355f372-cd55-4f64-844e-cdb2a6f422b9"
+      },
+      "PlacerDefinition": "baa76723-d828-4776-ad61-d369bebfd033",
+      "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+      "BlockKind": "59615e84-e848-4c90-9986-c37ebbcae762"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

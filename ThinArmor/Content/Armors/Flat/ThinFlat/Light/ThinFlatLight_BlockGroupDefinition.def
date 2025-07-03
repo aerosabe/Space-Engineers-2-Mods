@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8413fc5c-c9bc-4a8e-a490-a927eb4ff4f0",
+    "Name": "Light Flat 50cm Panel",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "e60aa56c-7a9b-4970-ba23-a81be5009e0b",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8c8a6eab-c105-42de-b52e-3f8a7d39a5a2",
+    "Name": "Slope2ShortHeavy",
+    "Description": "Heavy Wide 2x1 50cm Slope",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "21446b31-bb40-4bfd-9b5a-c5aacb106453",
+        "Value": "4c8be303-5462-44e1-a518-65e4a1be11b1"
+      },
+      {
+        "Key": "6d6048e0-20ce-4fc5-b20c-5a4c1290ba0e",
+        "Value": "7732dd6b-a821-49ec-b396-907ecaa79034"
+      }
+    ]
+  }
+}

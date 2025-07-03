@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "538031cf-f28f-4709-a2ac-339e0016ad58",
+    "Name": "Light Wide 2x1 50cm Slope",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "69938c8d-c98f-4de5-ad4d-c96763fc7306",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

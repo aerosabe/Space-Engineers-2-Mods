@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cd2e2439-4885-4291-94b8-996b52bdaf41",
+    "Name": "Slope5Light",
+    "Description": "Light 5x1 Slope",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "c7db5db5-f8f3-4815-9791-f5fa1aa4881b",
+        "Value": "6ccd969f-a358-46dd-b0d0-70160807a700"
+      },
+      {
+        "Key": "bb2ef542-adc5-490f-884e-2ad693446b99",
+        "Value": "01ac7e30-8e0d-4b7d-9c5e-815f8410591a"
+      }
+    ]
+  }
+}

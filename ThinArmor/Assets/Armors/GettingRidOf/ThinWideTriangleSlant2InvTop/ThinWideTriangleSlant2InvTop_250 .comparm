@@ -1,0 +1,84 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.ArmorBlockModel.Composite.CompositeArmorBlockModel",
+  "$Value": {
+    "SkipPhysicsShapeGeneration": false,
+    "SideMeshes": [
+      {
+        "SideMesh": "{G}96dedcda-3bc4-44ea-acda-7b267100717d",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}c2a58982-baec-4dc1-90ce-d12a4e84cbf4",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}5b330d72-ec49-4334-b226-20316ed67541",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}79ad6976-9e9f-46ff-921f-960f0d806281",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate90",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}c9c62cce-e5f6-49f1-b219-b7b05a0043d5",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate180",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}50bd3597-d11e-4b5b-a7e4-b7f250360791",
+        "Rotation": {
+          "X": "Rotate90",
+          "Y": "Rotate0",
+          "Z": "Rotate90"
+        }
+      },
+      {
+        "SideMesh": "{G}50bd3597-d11e-4b5b-a7e4-b7f250360791",
+        "Rotation": {
+          "X": "Rotate180",
+          "Y": "Rotate0",
+          "Z": "Rotate90"
+        }
+      },
+      {
+        "SideMesh": "{G}a0652d5a-af78-4ca4-af9a-27d1b99ad559",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}0d76200b-3062-4c26-a53b-c6b707c415df",
+        "Rotation": {
+          "X": "Rotate180",
+          "Y": "Rotate270",
+          "Z": "Rotate0"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "e7993064-a1de-4980-8f3a-9fb1f720670c",
+    "Name": "ThinSlope2Heavy",
+    "Description": "Heavy 2x1 Sloped 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "8d2e062e-974d-46e9-92cf-854072085b10",
+        "Value": "4c8be303-5462-44e1-a518-65e4a1be11b1"
+      },
+      {
+        "Key": "3af0536a-827f-4a78-a54c-20fba6ea9b2e",
+        "Value": "a96ff98d-1145-45b6-b6e1-492a343f9595"
+      }
+    ]
+  }
+}

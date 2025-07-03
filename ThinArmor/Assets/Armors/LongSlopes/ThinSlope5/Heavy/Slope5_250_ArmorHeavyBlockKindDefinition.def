@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "1425617d-4db9-4da7-bfa6-97a8b68bc643",
+    "Name": "Slope5Heavy",
+    "Description": "Heavy 5x1 Slope",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "83978009-d0f3-4f1f-ad0f-c269e23e4ef9",
+        "Value": "4c8be303-5462-44e1-a518-65e4a1be11b1"
+      },
+      {
+        "Key": "e4146b30-d5ce-4162-8a6f-435921f6970a",
+        "Value": "b2adaf76-ce2a-484a-b0db-fa88f149bc7a"
+      }
+    ]
+  }
+}

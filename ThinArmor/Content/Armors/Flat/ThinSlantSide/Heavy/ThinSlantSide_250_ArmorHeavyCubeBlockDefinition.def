@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "2e5a133c-4373-453e-aba6-767cefec42c6",
+    "UIData": {
+      "Name": "Heavy Armor Thin Slanted Slope 50cm Side",
+      "Icon": "{G}51636a1f-c67d-4bdf-8230-0f16f83cecba"
+    },
+    "PlacerDefinition": "82d2bb37-585d-4fd1-b3dc-266e23708d6e",
+    "BlockKind": "095c06ae-85c0-4dbb-8501-03d3baa730fa"
+  }
+}

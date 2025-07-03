@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "285e9bbd-260e-4cfc-9f81-ee7b98bd3f29",
+    "Name": "Slope2ShortLight",
+    "Description": "Light Wide 2x1 50cm Slope",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "8df5af38-6352-4656-8238-4e47045e375e",
+        "Value": "6ccd969f-a358-46dd-b0d0-70160807a700"
+      },
+      {
+        "Key": "104c69ac-f2c8-4db3-b5e5-835568ef9a96",
+        "Value": "538031cf-f28f-4709-a2ac-339e0016ad58"
+      }
+    ]
+  }
+}

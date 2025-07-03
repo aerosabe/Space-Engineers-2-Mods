@@ -1,0 +1,25 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ModHUB.Models.ModProject",
+  "$Value": {
+    "Id": {
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "ServiceName": ""
+    },
+    "ProjectID": {
+      "Guid": "8122bd0f-9200-4ebf-9820-2b8e2edcc38f",
+      "ModId": null,
+      "ServiceId": ""
+    },
+    "Version": null,
+    "Name": "ThinArmor",
+    "Summary": "Thin(50cm) Armor Blocks - Heavy(solid) & Light(mostly solid, rather than mostly hollow):",
+    "Tags": [
+      "ModTagArmor"
+    ],
+    "ProjectFile": "ThinArmor.vrgproj"
+  }
+}

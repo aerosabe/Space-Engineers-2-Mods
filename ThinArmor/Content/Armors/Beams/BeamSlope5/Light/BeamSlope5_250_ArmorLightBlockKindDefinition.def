@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "fcd80aa1-164a-4e75-b74b-0faef943537f",
+    "Name": "BeamSlope5Light",
+    "Description": "Light 5x1 Sloped 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "1b8f1e2d-b2cb-416b-baa9-f9c60c6cb583",
+        "Value": "a074fcc8-c9bb-4890-9a71-66d9b8f3f940"
+      },
+      {
+        "Key": "d6d07d1c-8109-4a15-855c-96a17ad1948c",
+        "Value": "b82f3518-6d00-4f06-9e37-389053631c27"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "ecf59ff6-5fbf-405d-81d6-d7a8705709da",
+    "UIData": {
+      "Name": "Light Armor Thin Slanted 2x1 Slope 50cm Side",
+      "Icon": "{G}47bda753-1ad9-4cd1-80a3-15941d422c97"
+    },
+    "PlacerDefinition": "82d2bb37-585d-4fd1-b3dc-266e23708d6e",
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "d5f63e95-6218-4ab1-a486-1b3adb2ab2c4"
+  }
+}

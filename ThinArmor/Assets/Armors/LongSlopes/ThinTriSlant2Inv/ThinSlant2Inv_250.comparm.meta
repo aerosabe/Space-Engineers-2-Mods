@@ -1,0 +1,104 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "b33bc263-7386-4a04-b2c8-c5b629105711",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "BknzQUi7ex375nigz5XLYw=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 17,
+          "Identifier": "P_COMPARM"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "Lc9VcjpVXWIgm1OV3HeLug==",
+            "FileName": "ThinSlant2Inv_250.armblock"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "043ab00a-e1e7-4e28-8d46-e4a5897324fc",
+            "Hash": "IG08WGLKYvj2FLu3TZ/nXQ=="
+          },
+          {
+            "Guid": "0acef3b8-b68f-42ec-9285-394f36930036",
+            "Hash": "UHk3vMGn9ZSKPZsu4QWMRQ=="
+          },
+          {
+            "Guid": "11db9283-c86f-4975-8730-84d89527a80c",
+            "Hash": "z2NJdnzLxqIIaf1H1MWXGQ=="
+          },
+          {
+            "Guid": "2e1758cb-8ee5-4e7b-8070-5c29a5e8a3a4",
+            "Hash": "ztiT2ushWiX/lwPgHlGSZQ=="
+          },
+          {
+            "Guid": "327e6d7f-77f5-4be8-b326-5cbb52c6c9c8",
+            "Hash": "V/QlsFEdK6QeFCP0W0mb/A=="
+          },
+          {
+            "Guid": "5ff313e3-b439-47ac-87db-b7bbb02ae3e9",
+            "Hash": "ISgrygVfmSBJ8kyJPNebyw=="
+          },
+          {
+            "Guid": "6fdba0c0-8455-46ef-b436-65499e685266",
+            "Hash": "p8tJTLh97h5Q2MddYRg/8g=="
+          },
+          {
+            "Guid": "8cfa8bee-0cd3-4beb-93e7-33240d003747",
+            "Hash": "uIoE5TVR20cmVsNSTrjx9Q=="
+          },
+          {
+            "Guid": "aa0bb9f4-bf74-4676-831d-23dbba44e8fd",
+            "Hash": "G5vWhAfDUOyVDJzEAgCV4Q=="
+          },
+          {
+            "Guid": "ae801da4-d704-4e7c-a7bd-b71813fdbe6a",
+            "Hash": "IYXds+sq74MyiR39ZAgeBw=="
+          },
+          {
+            "Guid": "b443afd4-daac-43a3-bda6-3ac4f8790c56",
+            "Hash": "wYjmFMuhLRk5Gm1ynNGQmg=="
+          },
+          {
+            "Guid": "b794f0ca-290e-4e5a-8e16-09c5d05d673f",
+            "Hash": "BMYtzhkMICqXd4AfuP7w8g=="
+          },
+          {
+            "Guid": "c4b3962f-e73b-488c-83c9-9c0015ec53ef",
+            "Hash": "QLUj1HFOau/55Q9+urWmbQ=="
+          },
+          {
+            "Guid": "d79fbf4a-18cf-4bd8-8223-a7197d07504e",
+            "Hash": "W74NNfh77ct0Vlk8N+891w=="
+          },
+          {
+            "Guid": "ddf5c696-efec-4a13-81a6-18d62cbe3268",
+            "Hash": "dG0fziomiLeJBIafCxQw4A=="
+          },
+          {
+            "Guid": "e0a6671e-30e2-4a7f-a799-85cc809a7bb2",
+            "Hash": "pxNNIkDlfxWBMpw4iPiuKQ=="
+          }
+        ],
+        "AssetHash": "BknzQUi7ex375nigz5XLYw==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

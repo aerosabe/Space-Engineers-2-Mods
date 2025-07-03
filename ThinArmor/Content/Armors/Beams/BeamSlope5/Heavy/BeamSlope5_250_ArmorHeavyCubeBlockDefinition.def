@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "af6a67ac-6e3a-4595-bc35-ab3db1793edb",
+    "UIData": {
+      "Name": "Heavy Armor 5x1 Slope 50cm Beam",
+      "Icon": "{G}53d749e8-47cc-4257-941e-fbdb632474e4"
+    },
+    "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+    "BlockKind": "1d6db4c5-572f-4451-8aad-27f1f5bfb390"
+  }
+}

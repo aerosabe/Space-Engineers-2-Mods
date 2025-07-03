@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "33975782-d95b-4442-b3d5-bf2bf07278b9",
+    "UIData": {
+      "Name": "Light Armor Corner Slope 50cm Beam",
+      "Icon": "{G}cb53c29b-6a1d-41c2-817c-2446e9d0f948"
+    },
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "59129a09-c422-4360-8ff9-27a6aa36a82b"
+  }
+}

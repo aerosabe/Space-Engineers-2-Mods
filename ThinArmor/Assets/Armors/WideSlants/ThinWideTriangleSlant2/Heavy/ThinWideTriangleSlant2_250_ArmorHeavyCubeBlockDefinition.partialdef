@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "8e01c242-7231-4be9-9932-22adbcd16c21",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "48ff82ad-65ad-405f-a745-95151b34609b",
+      "UIData": {
+        "Name": "Heavy Armor Wide 2x1 Slanted Triangle 50cm Panel",
+        "Icon": "{G}85f3b228-e385-41bd-8d72-1ee77a1c8d7e"
+      },
+      "PlacerDefinition": "82d2bb37-585d-4fd1-b3dc-266e23708d6e",
+      "BlockKind": "e4c4cbc9-79bf-4441-b667-3a334204ceb8"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

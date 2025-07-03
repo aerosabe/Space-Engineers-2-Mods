@@ -1,0 +1,72 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Metafiles.MetaData",
+  "$Value": {
+    "AssetID": "ccd51d20-23bf-4d2d-bdba-7f8afa3bd910",
+    "InternalItems": [
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Structure.FileInfoMetaDataItem",
+        "FileHash": "LVLosp5QtXrAlIi14nZz3g=="
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Project.Features.AssetProcessing.AssetProcessingMetaDataItem",
+        "ProcessorInfo": {
+          "Version": 17,
+          "Identifier": "P_COMPARM"
+        },
+        "ContentFiles": {
+          "MainOutput": {
+            "FileHash": "C7Exfu1KByTALqhkpsUKKA==",
+            "FileName": "BeamSlant5_250.armblock"
+          },
+          "AdditionalOutputs": []
+        },
+        "Problems": [],
+        "DependenciesHashes": [
+          {
+            "Guid": "1167a774-a556-471f-ad51-3e835aca1637",
+            "Hash": "MfwVDr6owvLhkC0RLItVQQ=="
+          },
+          {
+            "Guid": "11db9283-c86f-4975-8730-84d89527a80c",
+            "Hash": "z2NJdnzLxqIIaf1H1MWXGQ=="
+          },
+          {
+            "Guid": "2c33962e-cabf-4aad-b3b6-7a7f4547e5ef",
+            "Hash": "1CLGkk/FT/2n85Sncz+K+w=="
+          },
+          {
+            "Guid": "5fd295f9-59b6-4f9d-b21c-2a0b54087911",
+            "Hash": "Gm/nVyEXQWADEmDse+L4uw=="
+          },
+          {
+            "Guid": "a14a1a24-538b-4b9a-b07a-66989512f3fd",
+            "Hash": "5vkgPn//wb4KoXQvRSpwRw=="
+          },
+          {
+            "Guid": "a1cc9ba2-bf10-4e7e-b500-af6445868532",
+            "Hash": "yAEb2vmlNk+5UigGONuPmQ=="
+          },
+          {
+            "Guid": "ef1a0b87-a75c-46e8-9c6a-bbd4473c1fd2",
+            "Hash": "bBWOPQyYAn8lGZAxdWKqgw=="
+          },
+          {
+            "Guid": "f6ba11ef-87f7-4813-beee-8dfff6be3833",
+            "Hash": "II884y9kmEoPH/lP1Y6xEg=="
+          }
+        ],
+        "AssetHash": "LVLosp5QtXrAlIi14nZz3g==",
+        "OverrideDetachedState": false,
+        "IgnoredErrors": "None"
+      },
+      {
+        "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.DefinitionFlagsMetadata",
+        "Flags": "None"
+      }
+    ]
+  }
+}

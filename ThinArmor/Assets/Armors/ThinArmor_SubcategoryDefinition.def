@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.SubcategoryDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb",
+    "Name": "ThinArmor",
+    "Tooltip": "50cm Armor",
+    "Order": 0,
+    "Categories": [
+      {
+        "Key": "9c907cec-1522-45f6-a7da-63cdcc95d3b9",
+        "Value": "5f499f39-b8e5-48c8-a927-65ea758660c8"
+      }
+    ]
+  }
+}

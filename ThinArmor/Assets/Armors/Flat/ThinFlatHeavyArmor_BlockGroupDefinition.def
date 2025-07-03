@@ -1,0 +1,37 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "2f11f27d-7732-4060-b488-6117c847a296",
+    "Name": "Heavy Flat 50cm Panels",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "8eaa423c-1bed-4c15-be88-b3a099ffd8d3",
+        "Value": "dfeaceb9-9946-44c8-8212-50692a7d80cb"
+      },
+      {
+        "Key": "aacdaab3-1f02-4d40-942f-9e5266f5014f",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "760b9c01-c5fe-4250-b986-b5b019c67ff3",
+        "Value": "cf971443-8489-42d6-b602-bcb478d0e8c7"
+      },
+      {
+        "Key": "6ac042b8-dae6-4655-90ae-26faa96ff088",
+        "Value": "095c06ae-85c0-4dbb-8501-03d3baa730fa"
+      },
+      {
+        "Key": "43316dcd-95ac-4d85-a86b-5bf3d57ec547",
+        "Value": "65203019-e6f6-419e-8d12-5d8fe6e92c6b"
+      }
+    ]
+  }
+}

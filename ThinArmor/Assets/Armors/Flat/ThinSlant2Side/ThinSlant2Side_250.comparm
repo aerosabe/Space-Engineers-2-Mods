@@ -1,0 +1,68 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.ArmorBlockModel.Composite.CompositeArmorBlockModel",
+  "$Value": {
+    "SkipPhysicsShapeGeneration": false,
+    "SideMeshes": [
+      {
+        "SideMesh": "{G}79c2b610-5ee3-4065-bba3-2b96a3301873",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}c42db305-a371-47e2-a3d2-3152a2578d5a",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}d6ab1844-6720-41a9-ae3d-7c7a6456eee4",
+        "Rotation": {
+          "X": "Rotate180",
+          "Y": "Rotate270",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}0705c52f-d96c-40f0-992d-3d2fda8215ee",
+        "Rotation": {
+          "X": "Rotate90",
+          "Y": "Rotate0",
+          "Z": "Rotate90"
+        }
+      },
+      {
+        "SideMesh": "{G}0705c52f-d96c-40f0-992d-3d2fda8215ee",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate270"
+        }
+      },
+      {
+        "SideMesh": "{G}c58a4a68-c182-4f97-895d-49b7d397e31b",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate0",
+          "Z": "Rotate0"
+        }
+      },
+      {
+        "SideMesh": "{G}43ffbfe1-8029-4ae6-b9a1-01bdab563886",
+        "Rotation": {
+          "X": "Rotate0",
+          "Y": "Rotate90",
+          "Z": "Rotate0"
+        }
+      }
+    ]
+  }
+}

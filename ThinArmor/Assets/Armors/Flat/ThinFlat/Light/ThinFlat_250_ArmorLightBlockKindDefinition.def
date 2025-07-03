@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "57db870f-0bf5-49f2-9766-deb32f8d5b56",
+    "Name": "ThinFlatLight",
+    "Description": "Light Flat 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "e11e6e51-8c99-4f9c-a27f-f1e7b87b9e55",
+        "Value": "db73dc0f-dc0a-43fd-bf55-6fa577e8fa2c"
+      },
+      {
+        "Key": "eeaae0fc-6b2b-44bc-a4a3-135a148aaf1e",
+        "Value": "8413fc5c-c9bc-4a8e-a490-a927eb4ff4f0"
+      }
+    ]
+  }
+}

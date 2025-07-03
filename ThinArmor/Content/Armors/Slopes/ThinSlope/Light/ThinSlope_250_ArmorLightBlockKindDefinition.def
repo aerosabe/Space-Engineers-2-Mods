@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "be4ceabe-220c-4bfc-8e90-a7e9e3f68f00",
+    "Name": "ThinSlopeLight",
+    "Description": "Light Sloped 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "10dca878-1904-4769-8828-954e5eb7cdf4",
+        "Value": "ad99c49f-be06-490d-9388-01e6d258ab8a"
+      },
+      {
+        "Key": "3bddc27e-dd74-44c5-a758-d9ea70b3dd25",
+        "Value": "54af2ceb-2508-4dcc-9f73-8edb64f0ed79"
+      }
+    ]
+  }
+}

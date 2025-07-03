@@ -1,0 +1,23 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "VRage:Keen.VRage.ContentPipeline.Definitions.PartialDefinitionDiff",
+  "$Value": {
+    "BaseDefinition": "8e01c242-7231-4be9-9932-22adbcd16c21",
+    "PartialDefinitionKind": "Copy",
+    "Manipulator": {
+      "Guid": "35d9c14c-1650-4236-b2ed-5c377cee1fd4",
+      "UIData": {
+        "Name": "Heavy Armor 50cm 5x1 Slanted Triangle",
+        "Icon": "{G}37eee4ef-7bf3-4fd9-853f-a9731425bc1a"
+      },
+      "PlacerDefinition": "0c7a872a-1dc3-473b-9b09-6a23ef8fa02c",
+      "BlockKind": "24a407e7-0fb0-4844-9f15-6d26fb1fe063"
+    },
+    "DefinitionType": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinition",
+    "PriorityOverride": false
+  }
+}

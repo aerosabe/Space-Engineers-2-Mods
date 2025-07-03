@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8380b16e-9505-4ac3-903a-136b02ad14e8",
+    "Name": "Heavy 50cm 5x1 Slanted Triangle",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "c7a16579-93a0-417b-adb6-ca897c190ad9",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

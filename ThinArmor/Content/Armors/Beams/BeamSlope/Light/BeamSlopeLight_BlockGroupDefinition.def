@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "b544d389-7f66-4ed2-8802-95bfcab017b0",
+    "Name": "Light Sloped 50cm Beam",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "6a7ea113-602d-41d0-8700-ff585481dc27",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

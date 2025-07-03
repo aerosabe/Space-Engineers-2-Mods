@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "f86d9c5c-77d7-42d7-bb95-d3939e6b3af2",
+    "Name": "BeamTriangleSlant5Light",
+    "Description": "Light 50cm 5x1 Slanted Triangle",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "f9e70a2c-4a7a-44ad-8bd4-43bada466341",
+        "Value": "37b78e9a-e2ca-424a-b554-8674eced1830"
+      },
+      {
+        "Key": "c4590b38-5daa-46a9-b556-53b40e83af82",
+        "Value": "57a41522-fd83-4240-96d5-6f7927d30eb8"
+      }
+    ]
+  }
+}

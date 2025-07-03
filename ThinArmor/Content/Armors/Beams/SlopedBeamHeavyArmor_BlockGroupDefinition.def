@@ -1,0 +1,41 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cadc3910-20e6-4cd9-a7c5-21b3bd04a20c",
+    "Name": "Heavy Armor Sloped 50cm Beams",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "784c2f53-06b4-46ea-a391-130179dbd656",
+        "Value": "dfeaceb9-9946-44c8-8212-50692a7d80cb"
+      },
+      {
+        "Key": "7c8070ed-fc35-4de7-b929-a2b147acc476",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "11750d7c-8286-469f-83e2-ecb7378f6ef2",
+        "Value": "dea6003e-0bcc-497f-99eb-a2a30cde7afa"
+      },
+      {
+        "Key": "9dcd8428-5a78-40e5-b768-1f8f3251b089",
+        "Value": "34232a91-4f11-4eb0-abb9-5b9f043e8a9b"
+      },
+      {
+        "Key": "c5ffc781-23c1-43eb-9416-23afce1c2941",
+        "Value": "1ed9c159-96a2-4522-908a-56a1efe54f7e"
+      },
+      {
+        "Key": "cc74aa91-1ba9-43c4-bc01-dca4f4c4c61d",
+        "Value": "1d6db4c5-572f-4451-8aad-27f1f5bfb390"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "c42e0ef1-b213-4d0d-8e48-5d5b0d383dfc",
+    "UIData": {
+      "Name": "Light Armor Sloped 50cm Beam",
+      "Icon": "{G}e1902f4f-18ad-47bb-83e9-6671752b007f"
+    },
+    "PlacerDefinition": "d3bfe2c2-79d1-4522-8c54-2f3a69f0b348",
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "5881d183-e8bd-4028-97f5-d941b68412e6"
+  }
+}

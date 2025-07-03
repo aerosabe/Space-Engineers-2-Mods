@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "59129a09-c422-4360-8ff9-27a6aa36a82b",
+    "Name": "BeamCornerLight",
+    "Description": "Light Wide Slope 50cm Beam",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "85d3fe06-2d8c-4804-aebd-b0dcec8a3338",
+        "Value": "37b78e9a-e2ca-424a-b554-8674eced1830"
+      },
+      {
+        "Key": "e741c7ff-504c-414d-ba81-ddaf60570eb3",
+        "Value": "d4ed834d-215b-4308-8063-f30664416c56"
+      }
+    ]
+  }
+}

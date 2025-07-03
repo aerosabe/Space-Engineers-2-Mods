@@ -1,0 +1,18 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "eca19b79-315d-4a73-a478-720c15c9287c",
+    "UIData": {
+      "Name": "Light Armor Slanted Triangle 50cm Panel",
+      "Icon": "{G}2ed5079c-c66b-4080-8169-6752e594546a"
+    },
+    "PlacerDefinition": "f66e7c10-4406-4c48-9375-7ca3029a2632",
+    "Density": "0dc50007-32a5-4b11-97e5-22a34d7c3d3c",
+    "BlockKind": "db03a8a1-39e2-4c1f-9607-f5e3272d4194"
+  }
+}

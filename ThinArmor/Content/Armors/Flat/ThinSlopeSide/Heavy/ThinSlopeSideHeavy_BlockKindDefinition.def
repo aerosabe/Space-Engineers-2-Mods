@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "f1962b8d-3e92-4454-ba99-4bdc82985f3b",
+    "Name": "ThinSlopeSideHeavy",
+    "Description": "Heavy Slope 50cm Side",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "946d2ba7-21f5-4dfc-bb30-20adadb779ed",
+        "Value": "2f11f27d-7732-4060-b488-6117c847a296"
+      },
+      {
+        "Key": "b5ff7eea-c756-4ed8-aa25-c897edeb0532",
+        "Value": "3cb43521-60b6-4d12-950f-4ddb9eb67979"
+      }
+    ]
+  }
+}

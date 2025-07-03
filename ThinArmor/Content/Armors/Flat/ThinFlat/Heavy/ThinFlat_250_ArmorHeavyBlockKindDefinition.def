@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "cf971443-8489-42d6-b602-bcb478d0e8c7",
+    "Name": "ThinFlatHeavy",
+    "Description": "Heavy Flat 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "67d68393-6433-4743-9663-07451abe4efa",
+        "Value": "2f11f27d-7732-4060-b488-6117c847a296"
+      },
+      {
+        "Key": "98284a85-dfeb-46d9-8bd0-d64d64a99e24",
+        "Value": "875a3830-981f-4cec-8566-5981f5c24135"
+      }
+    ]
+  }
+}

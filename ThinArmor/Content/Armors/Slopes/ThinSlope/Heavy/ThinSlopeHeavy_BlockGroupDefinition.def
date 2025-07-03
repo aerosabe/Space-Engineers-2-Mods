@@ -1,0 +1,20 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "5f02665e-87cc-4b5f-8a96-8aff5ff6662f",
+    "Name": "Heavy Sloped 50cm Panel",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "1b15a3a0-f4e2-449d-bbd9-6133e6cd286f",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": []
+  }
+}

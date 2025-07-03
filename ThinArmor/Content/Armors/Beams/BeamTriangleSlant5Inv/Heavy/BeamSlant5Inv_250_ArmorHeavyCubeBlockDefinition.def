@@ -1,0 +1,17 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.WorldObjects.CubeBlocks.CubeBlockDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "95faded4-3116-4f77-81fe-34aedb1a7950",
+    "UIData": {
+      "Name": "Heavy Armor 50cm 5x1 Slanted Inverted Triangle",
+      "Icon": "{G}f1e1e646-e199-42c9-8efe-1a8274b4ea6e"
+    },
+    "PlacerDefinition": "0c7a872a-1dc3-473b-9b09-6a23ef8fa02c",
+    "BlockKind": "737e171c-a316-4b09-add7-2e698614eaaa"
+  }
+}

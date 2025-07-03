@@ -1,0 +1,24 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockKindDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "992870cd-c841-45c3-9ca3-054a05e3f854",
+    "Name": "ThinTriangleSlantInvLight",
+    "Description": "Light Slanted Inverted Triangle 50cm Panel",
+    "OrderingPriority": 0,
+    "BlockGroups": [
+      {
+        "Key": "31706d29-d08f-494e-9b66-d8066292255d",
+        "Value": "ad99c49f-be06-490d-9388-01e6d258ab8a"
+      },
+      {
+        "Key": "4e73e9bd-54a3-48f0-baa3-957b6c2e989e",
+        "Value": "53b67b13-98ef-478c-9bee-322e632f5c0e"
+      }
+    ]
+  }
+}

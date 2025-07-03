@@ -1,0 +1,37 @@
+{
+  "$Bundles": {
+    "Game2": "1.5.0.3086",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "1.5.0.3086"
+  },
+  "$Type": "Game2:Keen.Game2.Simulation.StreamedUI.Categories.BlockGroupDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "ad99c49f-be06-490d-9388-01e6d258ab8a",
+    "Name": "Light Sloped 50cm Panels",
+    "Order": 0,
+    "Subcategories": [
+      {
+        "Key": "48bc72e3-2a64-494b-82fa-ca5081b220ce",
+        "Value": "130e4c3d-6aee-44db-ab59-890ab8cacd4d"
+      },
+      {
+        "Key": "8423a891-bac4-4bb9-b426-0e72df8a1613",
+        "Value": "ccc023fa-09b3-4f61-bd9d-8e1e7eb7c4bb"
+      }
+    ],
+    "BlockKinds": [
+      {
+        "Key": "2d6b9d56-fa95-45ad-aae8-41b495894b0e",
+        "Value": "be4ceabe-220c-4bfc-8e90-a7e9e3f68f00"
+      },
+      {
+        "Key": "ad75c364-8e6f-4ce6-aba0-08d28b581c16",
+        "Value": "db03a8a1-39e2-4c1f-9607-f5e3272d4194"
+      },
+      {
+        "Key": "a2ff157c-9fd0-471f-bafc-9cc4e4f2429a",
+        "Value": "992870cd-c841-45c3-9ca3-054a05e3f854"
+      }
+    ]
+  }
+}
